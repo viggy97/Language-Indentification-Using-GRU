@@ -4,7 +4,7 @@ This project classifies whether the language spoken in a given audio file is Eng
 
 # GRU Model
 
-model.py defines a GRU model for the classification problems along with the audio data preprocessing actions.
+model.py defined a GRU model for the classification problems along with the audio data preprocessing actions.
 
 # Data:
 
